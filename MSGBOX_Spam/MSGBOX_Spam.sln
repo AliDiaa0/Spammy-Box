@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSGBOX_Spam", "MSGBOX_Spam.csproj", "{FFA4AE9C-414E-47C3-B9B5-BDED4214BDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFA4AE9C-414E-47C3-B9B5-BDED4214BDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA4AE9C-414E-47C3-B9B5-BDED4214BDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA4AE9C-414E-47C3-B9B5-BDED4214BDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA4AE9C-414E-47C3-B9B5-BDED4214BDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE3C6AD-71C1-4AD3-9388-355EC9A28B77}
+	EndGlobalSection
+EndGlobal

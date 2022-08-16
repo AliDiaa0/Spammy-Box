@@ -1,0 +1,6 @@
+D:\C#Projects\MSGBOX_Spam\obj\Debug\MSGBOX_Spam.csproj.AssemblyReference.cache
+D:\C#Projects\MSGBOX_Spam\obj\Debug\MSGBOX_Spam.csproj.CoreCompileInputs.cache
+D:\C#Projects\MSGBOX_Spam\bin\Debug\Spammy_Box.exe
+D:\C#Projects\MSGBOX_Spam\bin\Debug\Spammy_Box.pdb
+D:\C#Projects\MSGBOX_Spam\obj\Debug\Spammy_Box.exe
+D:\C#Projects\MSGBOX_Spam\obj\Debug\Spammy_Box.pdb
